@@ -1,0 +1,8 @@
+{
+  "name": "ExchageApp",
+  "app_id": "57c9d0d0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
